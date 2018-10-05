@@ -1,0 +1,12 @@
+<div class="text-box col-md-4 col-md-offset-4" style="text-align: center">
+	<h1>What stock do you want to sell?</h1>
+	<form ng-submit="done()">
+		<h2>Security Name</h2>
+		<input class="form-control" type="text" ng-model="name" id="sellInputField" required autofocus>
+		<h2>Order Amount</h2>
+		<input class="form-control" type="text" ng-model="amount" id="sellCountInputField" required autofocus>
+		<h2>Ask Price</h2>
+		<input class="form-control" type="text" ng-model="price" id="sellPriceInputField" required autofocus>
+		<input class="btn btn-default" type="submit" id="sellOKBtn" value="Ok">
+	</form>
+</div>

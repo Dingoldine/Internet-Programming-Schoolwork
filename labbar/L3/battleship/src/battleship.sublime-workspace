@@ -1,0 +1,1372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"items",
+				"itemsID"
+			],
+			[
+				"custo",
+				"customers"
+			],
+			[
+				"cu",
+				"customerID"
+			],
+			[
+				"re",
+				"reservation"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"se",
+				"securities"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ins",
+				"insertedArticle"
+			],
+			[
+				"add",
+				"addSecurity"
+			],
+			[
+				"name",
+				"nameIn"
+			],
+			[
+				"rec",
+				"recursiveCall"
+			],
+			[
+				"f",
+				"fun\tFunction"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"arti",
+				"articleRemoved"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"ar",
+				"articleRemoved"
+			],
+			[
+				"find",
+				"findResult"
+			],
+			[
+				"type",
+				"orderType"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"upda",
+				"update"
+			],
+			[
+				"secu",
+				"securityName"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"o",
+				"orderType"
+			],
+			[
+				"security",
+				"securityModel"
+			],
+			[
+				"sec",
+				"security"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"a",
+				"amount"
+			],
+			[
+				"up",
+				"updatedArticle"
+			],
+			[
+				"ma",
+				"matchBuyOrder"
+			],
+			[
+				"u",
+				"updatedArticle"
+			],
+			[
+				"bu",
+				"buyOrder"
+			],
+			[
+				"crea",
+				"createTrade"
+			],
+			[
+				"des",
+				"destroyOrder"
+			],
+			[
+				"sell",
+				"sellOrder"
+			],
+			[
+				"ord",
+				"orderAmount"
+			],
+			[
+				"buy",
+				"buyer"
+			],
+			[
+				"e",
+				"ExistingName"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"lis",
+				"listing"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"ge",
+				"getName"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"list",
+				"listController"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"mysl_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"decod",
+				"json_decode"
+			],
+			[
+				"s",
+				"sequelize"
+			],
+			[
+				"sc",
+				"source\tTag"
+			],
+			[
+				"pla",
+				"PlayerB"
+			],
+			[
+				"your",
+				"Your"
+			],
+			[
+				"playe",
+				"player"
+			],
+			[
+				"setS",
+				"setSmallMessage"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"set",
+				"setSmallMessage"
+			],
+			[
+				"sets",
+				"setSmallMessage"
+			],
+			[
+				"sho",
+				"shootAtBoard"
+			],
+			[
+				"sh",
+				"shootAtOwnBoard"
+			],
+			[
+				"com",
+				"computerShoots"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Pla",
+				"PlayerB"
+			],
+			[
+				"num",
+				"numberOfShots"
+			],
+			[
+				"hand",
+				"handleStartVsComputer"
+			],
+			[
+				"shi",
+				"shipType"
+			],
+			[
+				"gr",
+				"grid"
+			],
+			[
+				"hande",
+				"handleWin"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"fu",
+				"fullBoard"
+			],
+			[
+				"pl",
+				"placedShips"
+			],
+			[
+				"gri",
+				"gridAReady"
+			],
+			[
+				"gridA",
+				"gridAReady"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"the",
+				"theWinner"
+			],
+			[
+				"wh",
+				"whosTurn"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"Pl",
+				"PlayerA"
+			],
+			[
+				"nu",
+				"numberOfShots"
+			],
+			[
+				"place",
+				"placedShips"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"grid",
+				"gridSize"
+			],
+			[
+				"g",
+				"gridSize"
+			],
+			[
+				"ren",
+				"renderSquares"
+			],
+			[
+				"r",
+				"renderGrid"
+			],
+			[
+				"S",
+				"Start"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Com",
+				"Computer"
+			],
+			[
+				"Rea",
+				"ReactDOM"
+			],
+			[
+				"web",
+				"webpack-dev-server"
+			],
+			[
+				"new",
+				"newGuess"
+			],
+			[
+				"in",
+				"inputLine"
+			],
+			[
+				"getRe",
+				"getResponseMessage"
+			],
+			[
+				"Connec",
+				"Connect"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"fi",
+				"firstRequest"
+			],
+			[
+				"A",
+				"ArrayList"
+			],
+			[
+				"h",
+				"httpBody"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"time",
+				"times_won"
+			],
+			[
+				"Con",
+				"ConnectionHandler"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"Co",
+				"ConnectionHandler"
+			],
+			[
+				"Low",
+				"lowerBound"
+			],
+			[
+				"lo",
+				"lowerBound"
+			],
+			[
+				"pa",
+				"paragraph"
+			],
+			[
+				"read",
+				"readLine"
+			],
+			[
+				"n",
+				"number_of_guesses"
+			],
+			[
+				"co",
+				"correct_answer"
+			],
+			[
+				"cl",
+				"clientId"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"clie",
+				"clientSocket"
+			],
+			[
+				"clo",
+				"clientSocket"
+			],
+			[
+				"d",
+				"downloadSocket"
+			],
+			[
+				"Do",
+				"downloadSocket"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"downloa",
+				"downloadInformation"
+			],
+			[
+				"po",
+				"port_number"
+			],
+			[
+				"File",
+				"FileTransferInProcess"
+			],
+			[
+				"Fi",
+				"FileTransferInProcess"
+			],
+			[
+				"sender",
+				"senderInput"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 254,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 7967,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Components/Console.js",
+			"settings":
+			{
+				"buffer_size": 1995,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Components/Gameboard.js",
+			"settings":
+			{
+				"buffer_size": 8679,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rume/Internetprogrammering/labbar/L3/battleship/.eslintrc.json",
+			"settings":
+			{
+				"buffer_size": 631,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Components/Button.js",
+			"settings":
+			{
+				"buffer_size": 428,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Components/Event.js",
+			"settings":
+			{
+				"buffer_size": 236,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "App.test.js",
+			"settings":
+			{
+				"buffer_size": 245,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Components/ClickabĺeCell.js",
+			"settings":
+			{
+				"buffer_size": 254,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Components/Box.js",
+			"settings":
+			{
+				"buffer_size": 2382,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Components/Gameboard.css",
+			"settings":
+			{
+				"buffer_size": 1721,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublime ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"ESLint"
+			],
+			[
+				"Package Control",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control:",
+				"Package Control: Discover Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 479.0
+	},
+	"console":
+	{
+		"height": 284.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rume/Internetprogrammering/labbar/L3/battleship",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/public",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components"
+	],
+	"file_history":
+	[
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/Header.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/registerServiceWorker.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/.eslintrc.json",
+		"/home/rume/.config/sublime-text-3/Packages/User/ESLint.sublime-settings",
+		"/home/rume/.config/sublime-text-3/Packages/ESLint/ESLint.sublime-settings",
+		"/home/rume/Internetprogrammering/ellora/package-lock.json",
+		"/home/rume/Internetprogrammering/project/index.html",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/App.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/Button.js",
+		"/home/rume/Internetprogrammering/project/index.js",
+		"/home/rume/Internetprogrammering/project/restaurantDB.sql ",
+		"/home/rume/Internetprogrammering/labbar/L6/HttpsServer.java",
+		"/home/rume/Internetprogrammering/labbar/L2/HttpServer.java",
+		"/home/rume/Internetprogrammering/labbar/L6/HiddenService.java",
+		"/home/rume/Internetprogrammering/labbar/L2/L2.iml",
+		"/home/rume/Internetprogrammering/labbar/L5/app/socketController.js",
+		"/home/rume/Internetprogrammering/labbar/L5/public/controllers.js",
+		"/home/rume/Internetprogrammering/labbar/L5/app/controller.js",
+		"/home/rume/Internetprogrammering/labbar/L5/public/login.html",
+		"/home/rume/Internetprogrammering/labbar/L5/public/main.less",
+		"/home/rume/Internetprogrammering/labbar/L5/public/about.html",
+		"/home/rume/Internetprogrammering/labbar/L5/public/addSecurity.html",
+		"/home/rume/Internetprogrammering/labbar/L5/public/list.html",
+		"/home/rume/Internetprogrammering/labbar/L5/public/security.html",
+		"/home/rume/Internetprogrammering/labbar/L5/public/index.html",
+		"/home/rume/Internetprogrammering/labbar/L5/public/insert.php",
+		"/home/rume/Internetprogrammering/labbar/L5/db.sql",
+		"/home/rume/Internetprogrammering/labbar/L5/commands.txt",
+		"/home/rume/Internetprogrammering/labbar/L5/public/app.js",
+		"/home/rume/Internetprogrammering/labbar/L5/app/model.js",
+		"/home/rume/Internetprogrammering/labbar/L5/public/services.js",
+		"/home/rume/Internetprogrammering/labbar/L5/app/index.js",
+		"/home/rume/Internetprogrammering/labbar/L5/app/insert.php",
+		"/home/rume/Internetprogrammering/labbar/L4/index.php",
+		"/home/rume/Internetprogrammering/labbar/L4/bostad.sql",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/public/index.html",
+		"/home/rume/Internetprogrammering/labbar/L5/index.html",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/package-lock.json",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/README.md",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/package.json",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/App.test.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/index.css",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/index.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/ClickabĺeCell.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/Title.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/Event.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/Console.css",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/Console.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/Box.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/Gameboard.js",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Components/Gameboard.css",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/App.css",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship/src/Gameboard.js",
+		"/home/rume/Internetprogrammering/labbar/L3/package.json",
+		"/home/rume/Internetprogrammering/labbar/L3/Commands.txt",
+		"/home/rume/Internetprogrammering/labbar/L3/style.css",
+		"/home/rume/Internetprogrammering/labbar/L3/board.js",
+		"/home/rume/Internetprogrammering/labbar/L3/index.html",
+		"/home/rume/Internetprogrammering/labbar/L3/js/scripts.js",
+		"/home/rume/Internetprogrammering/labbar/L3/server.js",
+		"/home/rume/Internetprogrammering/labbar/L3/webpack.config.js",
+		"/home/rume/Internetprogrammering/labbar/L3/scrips.js",
+		"/home/rume/Internetprogrammering/labbar/L2/GuessingGame.java",
+		"/home/rume/Internetprogrammering/labbar/L2/ConnectionHandler.java",
+		"/home/rume/Internetprogrammering/labbar/L2/guess.html",
+		"/home/rume/Internetprogrammering/labbar/L2/Client.java",
+		"/home/rume/Internetprogrammering/labbar/L2/guess.php",
+		"/home/rume/Internetprogrammering/labbar/L3/battleship.html",
+		"/home/rume/Internetprogrammering/labbar/L1/Server.java",
+		"/home/rume/Internetprogrammering/labbar/L1/ConnectionHandler.java",
+		"/home/rume/Internetprogrammering/labbar/L1/Client.java",
+		"/home/rume/Internetprogrammering/labbar/L2/Bank.java",
+		"/home/rume/Internetprogrammering/labbar/L1/Main_Server.java",
+		"/home/rume/Internetprogrammering/labbar/L2/HttpClient.java",
+		"/home/rume/Internetprogrammering/labbar/L1/FileTransfer.java",
+		"/home/rume/Downloads/Internetprogrammering.pdf",
+		"/home/rume/GpaCalculator/GpaCalculator.java",
+		"/home/rume/Internetprogrammering/projcolab.txt",
+		"/home/rume/Internetprogrammering/labcolab.txt",
+		"/home/rume/GpaCalculator/infil.txt",
+		"/home/rume/AI/HMM4/HMM4.java",
+		"/home/rume/AI/GamesAI/TTT/Agent_X/Player.java",
+		"/home/rume/AI/GamesAI/TTT/Agent_Y/Player.java",
+		"/home/rume/AI/GamesAI/TTT/GameState.java",
+		"/home/rume/AI/GamesAI/TTT/Main.java",
+		"/home/rume/AI/GamesAI/TTT/Constants.java",
+		"/home/rume/AI/GamesAI/TTT/Deadline.java",
+		"/home/rume/AI/GamesAI/TTT/Move.java",
+		"/home/rume/AI/GamesAI/TTT/Player.java",
+		"/home/rume/AI/GamesAI/TTT/README_java",
+		"/home/rume/AI/GamesAI/TTT/GameState.class",
+		"/home/rume/AI/GamesAI/TTT/Player.class",
+		"/home/rume/AI/GamesAI/TTT/Move.class",
+		"/home/rume/AI/GamesAI/TTT/Main.class",
+		"/home/rume/AI/GamesAI/TTT/Constants.class",
+		"/home/rume/AI/GamesAI/TTT/Deadline.class",
+		"/home/rume/Downloads/submission_1342370_src.zip",
+		"/home/rume/AI/HMM4/sample3.in",
+		"/home/rume/AI/HMM4/HMM4.class",
+		"/home/rume/AI/beta.java",
+		"/home/rume/AI/HMM4/sample.ans",
+		"/home/rume/AI/HMM4/sample.in",
+		"/home/rume/AI/HMM4/sample3.ans",
+		"/home/rume/AI/HMM1/exaple.java",
+		"/home/rume/Desktop/courses.txt",
+		"/home/rume/AI/HMM2/xing.java",
+		"/home/rume/AI/HMM2/HMM2.java",
+		"/home/rume/AI/HMM2/hmm2.ans",
+		"/home/rume/AI/HMM2/viterbi.java",
+		"/home/rume/AI/HMM2/hmm2.in",
+		"/home/rume/AI/HMM2/sample_00.in",
+		"/home/rume/AI/HMM0/HMM0.java",
+		"/home/rume/AI/HMM1/hmm1.in",
+		"/home/rume/AI/HMM1/hmm1.ans",
+		"/home/rume/AI/HMM0/sample_00.ans",
+		"/home/rume/AI/HMM.java",
+		"/home/rume/AI/sample_00.ans",
+		"/home/rume/AI/sample_00.in"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"SL.37.region_keys":
+							[
+								"SL.eslint.Highlights.|f34d5d7b096f4a11a2a75cacaab36b37de6fe326e38c4b07da19f16a83145076|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a71a60b3171e2ef0bbede248f1e859973733aaf0d57dd5872cb7ac307991baae|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|62d71bb07c0e8a73133369421c3bb9b96584f23a56f24e12d63999e558553e68|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|445093171b291f1a5c7fd8db44c9ab45ba9c45272c9eba191022b1cf75ae207f|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|7fb297342bcae6fc94f1160e980029bb63c8f80470593db1a1c28c41c6728d17|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|c46528982249f4dd9be50d8a2d240cd6709b0684a2357498a5401e35c58690b6|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|45ddd8325126adbe88021b93471f9719ed04bf27b647d6c2afbff6fa422e86c4|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.40.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|45ddd8325126adbe88021b93471f9719ed04bf27b647d6c2afbff6fa422e86c4|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4184,
+								4184
+							]
+						],
+						"settings":
+						{
+							"SL.31.region_keys":
+							[
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|6ec33c5f5c966dcd335d9e8fc72ac4ed9a168e78c32d9151a2b8b9f21de631c9|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|4a6bdb7b53329600d03da53164ea008f9c4b2ff84d03c14e5670d0d180b61f15|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.34.region_keys":
+							[
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|4a6bdb7b53329600d03da53164ea008f9c4b2ff84d03c14e5670d0d180b61f15|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|6ec33c5f5c966dcd335d9e8fc72ac4ed9a168e78c32d9151a2b8b9f21de631c9|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1887.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Components/Console.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"SL.44.region_keys":
+							[
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|066b0b0ccfa1d84d0d5c375a810b47b3de093deccba8d7a45d7d5e2de2b3672d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c82dd7c9021c61e9ba829658cd237aff9f56788f94cb91748ef575528d8938db|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Components/Gameboard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"SL.47.region_keys":
+							[
+								"SL.eslint.Highlights.|610515e46354fd6c6a8a87a46c64887c6021ee7677749c9e1c0c11f692813d09|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|488e7b5bcda1b08b94df784f2f2dd7a60bbf82acf025a022800ef49a277d48c3|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|62cafdbfc8dfea246586da123591e795cd40e848ffca99bd61b0e54a5943d239|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|2fcf3465f1b9ed5432cb2c414f4cc050f0ff200f3fcf75937f14f6b1c0e9ed4a|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/rume/Internetprogrammering/labbar/L3/battleship/.eslintrc.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Components/Button.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"SL.33.region_keys":
+							[
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|11990d98469b6eb44e6d4eba0de87bcae1915015dd85a180a3211e1add82b408|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.36.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Components/Event.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"SL.45.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "App.test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"SL.37.region_keys":
+							[
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|892e0fd2e73c33d72d4f6937c43b87d0491be904607aadd1ea41f0c657bf7446|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|08a6274d8dd264e6d69c5ed0e96ddb26e3940f4fa502cc386e6bc79107e05904|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Components/ClickabĺeCell.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"SL.42.region_keys":
+							[
+								"SL.eslint.Highlights.|fd8088f06797d269a7465f82b11c75070716562d2916d090ebc7f88a716dc3a8|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Components/Box.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1090,
+								1090
+							]
+						],
+						"settings":
+						{
+							"SL.35.region_keys":
+							[
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.38.region_keys":
+							[
+								"SL.eslint.Highlights.|4ce12e49bfb90431594b8e9a4e1f65447d24ba48062bc8732c210e0441eb2cf5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Components/Gameboard.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 87.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "battleship.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

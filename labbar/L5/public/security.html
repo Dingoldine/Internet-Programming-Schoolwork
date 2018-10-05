@@ -1,0 +1,63 @@
+<div class="container">
+
+  <section class="col-md-10 col-md-offset-1">
+    <div class="row" style="text-align: center;">
+      <h1>{{security}}</h1>
+    </div>
+    <div style="border: 2px solid black">
+      <h2>Trades</h2>
+      <table>
+      <tr>
+        <th>Name|</th>
+        <th>Price|</th>
+        <th>Buyer|</th>
+        <th>Seller|</th>
+        <th>Date|</th>
+        <th>Amount|</th>
+      </tr> 
+      <tr ng-repeat="trade in trades track by $index">
+            <td>{{trade.name}}</td>
+            <td>{{trade.price}}</td>
+            <td>{{trade.buyer}}</td>
+            <td>{{trade.seller}}</td>
+            <td>{{trade.dt}}</td>
+            <td>{{trade.amount}}</td> 
+      </tr>
+      </table>
+      <h2>Buy Orders</h2>
+      <table>
+      <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Buyer</th>
+        <th>Amount</th>
+        <th>Id</th>
+      </tr>  
+      <tr ng-repeat="buy in buys track by $index">
+            <td>{{buy.name}}</td>
+            <td>{{buy.price}}</td>
+            <td>{{buy.uid}}</td>
+            <td>{{buy.amount}}</td>
+            <td>{{buy.id}}</td>
+      </tr>
+    </table>
+     <table>
+        <tr>
+          <th>Name</th>
+          <th>Price</th>
+          <th>Seller</th>
+          <th>Amount</th>
+          <th>Id</th>
+        </tr>  
+      <h2>Sell Orders</h2>
+      <tr ng-repeat="sell in sells track by $index">
+            <td>{{sell.name}}</td>
+            <td>{{sell.price}}</td>
+            <td>{{sell.uid}}</td>
+            <td>{{sell.amount}}</td>
+            <td>{{sell.id}}</td>
+      </tr>
+    </div>
+
+  </section>
+</div>

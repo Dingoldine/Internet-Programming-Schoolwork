@@ -1,0 +1,19 @@
+<div class="container">
+
+  <section class="col-md-10 col-md-offset-1">
+    <div class="row" style="text-align: center;">
+      <h1>Stocks</h1>
+    </div>
+
+    <div class="row">
+      <div class="well" ng-repeat="security in securities" ng-click="redirect(security)">
+        <div class="row" style="text-align: center;">
+          <h4>
+            <span><a href="">{{security}}</a></span>
+          </h4>
+        </div>
+      </div>
+    </div>
+
+  </section>
+</div>

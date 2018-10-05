@@ -1,0 +1,11 @@
+/usr/bin/keytool -genkey -alias server-alias -keyalg RSA -keypass changeit -storepass changeit -keystore rume.jks
+
+
+
+/usr/bin/keytool -export -alias server-alias -storepass changeit -file server.cer -keystore keystore.jks
+
+/usr/bin/keytool -import -v -trustcacerts -alias server-alias -file server.cer -keystore cacerts.jks -keypass changeit -storepass changeit
+
+
+
+sudo cat /var/lib/tor/hidden_service/hostname

@@ -1,0 +1,113 @@
+
+/*CSS of the gameboard squares and all of it's states*/
+#gridA {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height:auto;
+  display: table;
+  min-height:100%;
+  margin: 0 auto;
+  max-width: 60vh;
+  max-height: 60vh;
+  font-size: 1rem;
+}
+.row {
+  width: 450px;
+  display: flex;
+}
+
+.gridsquare {
+  background: rgb(15, 14, 52);
+  margin: 1px;
+  color: white;
+  font-weight: bold;
+  flex: 1 0 auto;
+  position: relative;
+}
+
+.gridsquare:after {
+  content: "";
+  float:left;
+  display: block;
+  padding-top: 100%;
+}
+
+.gridsquare .inner {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9px;
+}
+
+.gridsquareOccupied {
+  background: rgb(132, 44, 37);
+  margin: 1px;
+  color: white;
+  font-weight: bold;
+  flex: 1 0 auto;
+  position: relative;
+}
+.gridsquareOccupied .inner {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9px;
+}
+
+.gridsquareOccupied:after {
+  content: "";
+  float:left;
+  display: block;
+  padding-top: 100%;
+}
+
+.gridsquareHit {
+  background: rgb(127, 255, 0);
+  margin: 1px;
+  color: white;
+  font-weight: bold;
+  flex: 1 0 auto;
+  position: relative;
+}
+.gridsquareHit .inner {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9px;
+}
+.gridsquareHit:after {
+  content: "";
+  float:left;
+  display: block;
+  padding-top: 100%;
+}
+
+
+#gridB{
+  position: absolute;
+  right: 0;
+  top: 0;
+  height:auto;
+  display: table;
+  min-height:100%;
+  margin: 0 auto;
+  max-width: 60vh;
+  max-height: 60vh;
+  font-size: 1rem;
+}

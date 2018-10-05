@@ -1,0 +1,28 @@
+<div class="text-box col-md-8 col-md-offset-4" style="text-align: center">
+  <section class="col-md-10 col-md-offset-1">
+    <div style="border: 2px solid black">
+      <div>
+        <th>Name / Price / Buyer / Seller / Date / Amount</th>
+        <div ng-repeat="trade in trades track by $index">
+            <!-- {{entry}} -->
+            <td>{{trade.name}}</td>
+            <td>{{trade.price}}</td>
+            <td>{{trade.buyer}}</td>
+            <td>{{trade.seller}}</td>
+            <td>{{trade.createdAt}}</td>
+            <td>{{trade.amount}}</td>
+            <br>
+        </div>
+      </div>
+    </div>
+
+  	<h1>What stock do you want to show?</h1>
+  	<form ng-submit="done()">
+
+
+  		<h2>Stock</h2>
+  		<input class="form-control" type="text" ng-model="tradearea" id="tradeInputField" required autofocus>
+  		<input class="btn btn-default" type="submit" id="tradeOKBtn" value="Ok">
+  	</form>
+  </section>
+</div>

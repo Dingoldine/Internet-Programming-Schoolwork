@@ -1,0 +1,38 @@
+<div class="modal-header">
+    <h3>Lägg till ny maträtt!</h3>
+</div>
+<form name="form.addForm" ng-submit="submitForm()" novalidate>
+    <div class="modal-body">
+
+        <!-- NAME -->
+        <div class="form-group">
+            <label>Namn</label>
+            <input type="text" name="name" class="form-control" ng-model="name" required>
+            <p ng-show="form.addForm.name.$invalid && !form.addForm.name.$pristine" class="help-block">A name is required.</p>
+        </div>
+
+        <!-- Date day and hour and min -->
+        <div class="form-group">
+            <label>Beskrivning</label>
+            <input class="form-control" type="text" id="inputDate" name = "description" ng-model="description" required />
+        </div>
+
+        <div class="form-group">
+            <label>Typ</label>
+            <input class="form-control" type="text" id="inputDate" name = "type" ng-model="type" required />
+        </div>
+
+
+        <!-- pris -->
+        <div class="form-group">
+            <label>Pris</label>
+            <input class="form-control" type="text" name="price" ng-model="price" required>
+
+        </div>
+
+    </div>
+    <div class="modal-footer">
+        <button type="submit" class="btn btn-primary" >Lägg till</button> <!-- ng-disabled="form.addForm.$invalid -->
+        <button class="btn btn-warning" ng-click="cancel()">Avbryt</button>
+    </div>
+</form>

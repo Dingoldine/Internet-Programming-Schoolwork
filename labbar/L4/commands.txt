@@ -1,0 +1,16 @@
+mysql --host=mysql-vt2018.csc.kth.se --user=rumman_admin --password=J5yULeh1FJl5
+
+ssh rumman@u-shell.csc.kth.se
+
+
+local dir:
+/home/rume/Internetprogrammering/labbar/L4
+
+remote dir:
+/home/r/u/rumman/public_html
+
+\. bostad.sql​
+
+scp index.html search.php rumman@u-shell.csc.kth.se:/home/r/u/rumman/public_html
+
+http://wproj.csc.kth.se/~rumman/index.php
