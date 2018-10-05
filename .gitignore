@@ -1,5 +1,5 @@
 # Don't track content of these folders
-/labbar/./node_modules/
+/node_modules/
 lectures/
 node_modules/
 
