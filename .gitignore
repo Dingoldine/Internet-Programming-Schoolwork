@@ -1,7 +1,7 @@
 # Don't track content of these folders
-*node_modules/
+/labbar/./node_modules/
 lectures/
-
+node_modules/
 
 # Compiled source #
 ###################
